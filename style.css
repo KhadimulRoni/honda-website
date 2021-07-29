@@ -12,3 +12,9 @@ p{
 .orange-btn{
     background-color: #E76F51;
 }
+h6,span,.fas,.far{
+    color: #E76F51;
+}
+.bike-1,.bike-3{
+    mix-blend-mode: luminosity;
+}
